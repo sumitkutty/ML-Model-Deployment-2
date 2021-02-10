@@ -49,5 +49,5 @@ Steps:
 * Created a process file for heroku execution.
 * Pushed the entire app to the git remote repository of heroku.
 * The url of the app was created.
-
+<br />
 # THE END
