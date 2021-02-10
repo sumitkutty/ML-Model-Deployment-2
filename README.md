@@ -2,7 +2,7 @@
 ### Machine Learning Model deployment using Streamlit and Heroku
 <br />
 
-App Link: https://estream-app.herokuapp.com
+**App Link**: https://estream-app.herokuapp.com
 ## Objective:
 #### Predicting the selling price of a car given features like kms driven, transmission type, year bought, present price etc and creating an app using streamlit to following a deployment to heroku.
 
